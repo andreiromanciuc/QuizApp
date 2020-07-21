@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="my_laptop_name">Dell</string>
+
+    <string name="correct_text">Correct!</string>
+    <string name="incorrect_text">Incorrect!</string>
+    <string name="first_score_text">0/10</string>
+    <string name="correct_toast_message">Great!</string>
+    <string name="incorrect_toast_message">Not good!</string>
+
+    <string name="q1">A honey bee can fly at 15mph.</string>
+    <string name="q2">The average speed of a housefly is 4.5 mph.</string>
+    <string name="q3">Camel\'s milk does not curdle.</string>
+    <string name="q4">The world\'s termites outweigh the world\'s humans about 10 to 1.</string>
+    <string name="q5">A hummingbird weighs less than a penny.</string>
+    <string name="q6">Children tend to grow faster in the spring.</string>
+    <string name="q7">Broccoli is the only vegetable that is also a flower.</string>
+    <string name="q8">Alaska has the highest percentage of people who walk to work.</string>
+    <string name="q9">The San Francisco cable cars are the only mobile national monument.</string>
+    <string name="q10">The Hawaiian alphabet has only 12 letters.</string>
+
+</resources>
